@@ -1,4 +1,3 @@
-// api-key=c80eaeb6e76ad67c84111207df786d74
 
 const container = document.querySelector(".container");
 const search = document.querySelector(".search-box button");
